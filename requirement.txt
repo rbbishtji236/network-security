@@ -1,3 +1,7 @@
 python-dotenv
 panda
 numpy
+pymongo
+certifi
+pymongo[srv]
+scikit-learn
